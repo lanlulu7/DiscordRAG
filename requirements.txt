@@ -1,0 +1,5 @@
+chromadb
+discord.py
+langchain-community
+langchain-openai
+PyMuPDF
