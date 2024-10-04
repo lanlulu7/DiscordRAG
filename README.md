@@ -1,4 +1,4 @@
-# RAG_discord_chatbot
+# DiscordRAG
 
 ![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*pvD0sDAZyrI8w_Tyw2FdCQ.png)
 
